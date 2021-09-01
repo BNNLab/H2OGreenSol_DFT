@@ -1,0 +1,5 @@
+Species					Filename
+Starting material 1		b3lyp_m062x_dmad_cycloaddition_PM6_toluene_water_1.log
+Starting material 2 	b3lyp_m062x_quadricyclane_cycloaddition_PM6_toluene_water.log
+Product					b3lyp_product_step1_cycloaddition_m062x_toluene_3_radical_2_water.log
+Transition state		freq_b3lyp_m062x_TS_associated_cycloaddition_PM6_toluene_3_water.log
